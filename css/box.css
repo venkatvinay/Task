@@ -1,0 +1,22 @@
+.box1
+{
+	width :150px;
+	height:150px;
+	border:0px;
+	background-color:#0066ff;
+	text-align: center;
+	color: white;
+}
+.box1 a 
+{
+	color:white;
+}
+.box2
+{
+	width :250px;
+	height:250px;
+	border:0px;
+	background-color:#0066ff;
+	text-align: center;
+	color:white;
+}
